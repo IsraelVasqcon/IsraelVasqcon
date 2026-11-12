@@ -17,12 +17,12 @@ Currently:
 
 Technologies:
 
-Python
-Bash
-SQL
-Linux
-Docker
-Git
-Zabbix
-Networking
+Python /
+Bash /
+SQL /
+Linux /
+Docker /
+Git /
+Zabbix /
+Networking /
 
