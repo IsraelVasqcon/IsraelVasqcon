@@ -1,16 +1,28 @@
-## Hi there 👋
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8f782652-1b40-4471-b566-7e955225b3cc" />
 
-<!--
-**IsraelVasqcon/IsraelVasqcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, I'm Israel Siqueira :)
+System Analyst focused on Monitoring, Infrastructure, Networking, and Process Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me
+
+LinkedIn: https://www.linkedin.com/in/israel-siqueira-0428a8281/
+Email: ivsiqueira10994@gmail.com
+
+Currently:
+🔭 Working on Zabbix Monitoring, Python Automation, and Infrastructure Projects.
+🌱 Learning System Design, AI Models, Database Architecture, and Software Engineering.
+🤝 Looking for opportunities to collaborate on automation and softwear development solutions.
+⚡ Fun fact: Love Fishing! Is my favorite hobby.
+
+Technologies:
+
+Python
+Bash
+SQL
+Linux
+Docker
+Git
+Zabbix
+Networking
+
