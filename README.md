@@ -12,13 +12,13 @@ Email: ivsiqueira10994@gmail.com
 
 Currently:
 
-🔭 Working on Zabbix Monitoring, Python Automation, and Infrastructure Projects.
+• 🔭 Working on Zabbix Monitoring, Python Automation, and Infrastructure Projects.
 
-🌱 Learning System Design, AI Models, Database Architecture, and Software Engineering.
+• 🌱 Learning System Design, AI Models, Database Architecture, and Software Engineering.
 
-🤝 Looking for opportunities to collaborate on automation and softwear development solutions.
+• 🤝 Looking for opportunities to collaborate on automation and softwear development solutions.
 
-⚡ Fun fact: Love Fishing! Is my favorite hobby.
+• ⚡ Fun fact: Love Fishing! Is my favorite hobby.
 
 Technologies:
 
