@@ -11,6 +11,7 @@ LinkedIn: https://www.linkedin.com/in/israel-siqueira-0428a8281
 Email: ivsiqueira10994@gmail.com
 
 Currently:
+
 🔭 Working on Zabbix Monitoring, Python Automation, and Infrastructure Projects.
 
 🌱 Learning System Design, AI Models, Database Architecture, and Software Engineering.
@@ -20,6 +21,7 @@ Currently:
 ⚡ Fun fact: Love Fishing! Is my favorite hobby.
 
 Technologies:
+
 
 Python /
 Bash /
